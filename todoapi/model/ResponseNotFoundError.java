@@ -38,8 +38,8 @@ public class ResponseNotFoundError {
     this.detail = detail;
   }
 
-  public ResponseNotFoundError title(String title) {
-    this.title = title;
+  public ResponseNotFoundError title(String title1) {
+    this.title = title1;
     return this;
   }
 
